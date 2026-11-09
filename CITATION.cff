@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the DiffCoSOD manuscript."
+title: "DiffCoSOD: Diffusion Guided Saliency and Correlation Learning for Co-Salient Object Detection"
+type: software
+version: 0.1.0
+year: 2026
